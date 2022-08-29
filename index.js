@@ -1,5 +1,8 @@
+//estructura de archivo? aiudaaaa
+
 let edad = parseInt(prompt("Ingresa tu edad"));
 let cursoNumero = 0;
+
 
 /* alguna funcion que sea para armar "personas" */
 
@@ -29,4 +32,4 @@ if(edad < 12){
 alert("gracias por elegirnos"); 
 } 
 
-/* elegir cursos puede ser con casos? Por ejemplo: curso 3 es el aso 3, y va juntando o cumando vacantes en ese curso. */
+// elegir cursos puede ser con casos? Por ejemplo: curso 3 es el aso 3, y va juntando o sumando vacantes en ese curso. 
